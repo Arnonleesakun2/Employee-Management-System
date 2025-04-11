@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Employee" ALTER COLUMN "email" SET DATA TYPE TEXT,
+ALTER COLUMN "phone" SET DATA TYPE TEXT;
